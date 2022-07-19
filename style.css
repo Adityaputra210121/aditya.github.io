@@ -1,0 +1,13 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #b6c5db;
+}
+.navbar-brand {
+  font-weight: bolder;
+}
+#projects {
+  background-color: #b6c5db;
+}
+section {
+  padding-top: 5rem;
+}
